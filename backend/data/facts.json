@@ -1,0 +1,21 @@
+{
+    "full_name": "Dauren Naipov",
+    "name": "Daur",
+    "current_role": "AI engineer",
+    "location": "Almaty",
+    "email": "dauren.naipov@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dauren-n-37610525",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Your Degree",
+        "institution": "Your University",
+        "year": "2020"
+      }
+    ]
+  }
